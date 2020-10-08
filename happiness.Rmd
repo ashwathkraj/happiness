@@ -1,0 +1,21 @@
+---
+title: "happiness"
+author: "Ashwath Raj"
+date: "October 8, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r cars echo=FALSE}
+library(tidyverse)
+library(dtplyr)
+```
+
+
+```{r  }
+
+```
